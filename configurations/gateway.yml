@@ -1,0 +1,6 @@
+zuul:
+  routes:
+    aservice:
+      url: http://localhost:8081
+#    bservice:
+#      url: http://localhost:8082
